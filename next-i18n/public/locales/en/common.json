@@ -1,3 +1,4 @@
 {
-  "button_okay": "Okay button"
+  "button_okay": "Okay button",
+  "text_with_variable": "This is a text with a variable: {{variable}}"
 }
